@@ -1,0 +1,16 @@
+key: 3a1c106e33bcf57a68b340064f5f4ba6
+url: http://api.weatherstack.com/
+
+// Current Weather API Endpoint
+
+http://api.weatherstack.com/current
+    ? access_key = YOUR_ACCESS_KEY
+    & query = New York
+    
+// optional parameters: 
+
+    & units = m
+    & language = en
+    & callback = MY_CALLBACK
+
+    

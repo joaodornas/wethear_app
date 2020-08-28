@@ -1,0 +1,3 @@
+key: pk.eyJ1Ijoiam9hb2Rvcm5hcyIsImEiOiJja2J1c2ZwaTcwMGljMzNwNGZrYnB2Nm1wIn0.691WIJVcfv5Xv9TkpLX2RA
+
+url: https://api.mapbox.com/geocoding/v5/mapbox.places/Belo%20Horizonte.json?access_token=pk.eyJ1Ijoiam9hb2Rvcm5hcyIsImEiOiJja2J1c2ZwaTcwMGljMzNwNGZrYnB2Nm1wIn0.691WIJVcfv5Xv9TkpLX2RA
